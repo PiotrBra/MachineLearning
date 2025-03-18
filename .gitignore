@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual Environments
+venv/
+.env/
+*.venv/
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+workspace.xml
+shelf/
+
+# Logs and Databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Compiled files
+*.egg-info/
+*.egg
+
+# Unit test / coverage
+htmlcov/
+*.cover
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+
+# Docker
+*.container
+*.dockerignore
+
+# OS-specific files
+.DS_Store
+Thumbs.db
