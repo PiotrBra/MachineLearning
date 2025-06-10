@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 jupyterlab = "^4.3.6"
 tqdm = "^4.67.1"
+rich = "^14.0.0"
 
 
 [build-system]
